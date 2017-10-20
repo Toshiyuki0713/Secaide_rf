@@ -1,4 +1,4 @@
-package com.dotinstall.secaide_rf;
+package com.dotinstall.secaiderf2;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.dotinstall.secaide_rf", appContext.getPackageName());
+        assertEquals("com.dotinstall.secaiderf2", appContext.getPackageName());
     }
 }
