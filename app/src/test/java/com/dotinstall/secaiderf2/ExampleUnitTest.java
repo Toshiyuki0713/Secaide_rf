@@ -1,4 +1,4 @@
-package com.dotinstall.secaide_rf;
+package com.dotinstall.secaiderf2;
 
 import org.junit.Test;
 

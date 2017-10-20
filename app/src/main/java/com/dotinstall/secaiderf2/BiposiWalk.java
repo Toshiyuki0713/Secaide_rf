@@ -1,9 +1,10 @@
-package com.dotinstall.secaide_rf;
+package com.dotinstall.secaiderf2;
 
 /**
- * Created by gosho on 2017/10/19.
+ * Created by gosho on 2017/10/20.
  */
 
+//サンプルを真似ただけなのですが、リンク先のJSONをちゃんとPOJO変換してコピペした方がいいでしょうか？
 public class BiposiWalk {
     private String steps;
     private String distance;
